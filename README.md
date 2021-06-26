@@ -39,10 +39,10 @@ A- a circuit controlling 2 DC motors by ardiuno:
     
     
     
-    speaking of rechargeability! i build a circuit for reacharing lithium battery that will charge our battrey with 
+    speaking of rechargeability! i build a circuit for reacharging lithium battery with 500mA, since i'm not sure
     
-    500mA, since i'm not sure about the exact current required, with constant voltage of 4.2v or less and a resistor 
+    about the exact current (mA) required, with constant voltage of 4.2v or less and a resistor to limit the current. 
     
-    to limit the current. and using a MCP73831, diode(LED), capacitors. 
+    and using a MCP73831, diode(LED), capacitors.
     
     
