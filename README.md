@@ -1,4 +1,4 @@
-# task 2: robot-base-circuit:
+#robot-base-circuit:
 
 this reposetory contains:
 
